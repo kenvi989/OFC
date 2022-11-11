@@ -1,0 +1,4617 @@
+LOS ANGELES (LAX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1860 | 
+ATLANTA  (ATL)      U.S.A. | 
+ OZ                 M      10000 | 
+                 N      2170 | 
+                 45      1615 | 
+                 100      1485 | 
+                 300      1391 | 
+                 500      1250 | 
+                 1000      1170 | 
+BOSTON (BOS)      U.S.A. | 
+ JL                 M      10000 | 
+                 N      2300 | 
+CHICAGO (CHI)      U.S.A. | 
+ CA,CK,JL,MU,OZ                 M      10000 | 
+                 N      2130 | 
+                 45      1595 | 
+                 100      1465 | 
+                 300      1361 | 
+                 500      1220 | 
+                 1000      1150 | 
+DALLAS/FORT WORTH (DFW)      U.S.A. | 
+ CA,JL,OZ                 M      10000 | 
+                 N      2130 | 
+                 45      1595 | 
+                 100      1465 | 
+                 300      1361 | 
+                 500      1220 | 
+                 1000      1150 | 
+DETROIT (DTT)      U.S.A. | 
+ OZ                 M      10000 | 
+                 N      2150 | 
+                 45      1605 | 
+                 100      1475 | 
+                 300      1415 | 
+                 500      1315 | 
+                 1000      1235 | 
+HONOLULU (HNL)      U.S.A. | 
+ AF,CA,JL,KL,KZ,NH,OZ                 M      10000 | 
+                 N      1580 | 
+                 45      1190 | 
+                 100      1070 | 
+                 300      990 | 
+                 500      870 | 
+                 1000      810 | 
+KAHULUI (OGG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1580 | 
+KONA (KOA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1580 | 
+LOS ANGELES (LAX)      U.S.A. | 
+ CA,CK,JL,MU,OZ                 M      10000 | 
+                 N      1860 | 
+                 45      1395 | 
+                 100      1275 | 
+                 300      1191 | 
+                 500      1070 | 
+                 1000      1000 | 
+MIAMI (MIA)      U.S.A. | 
+ OZ                 M      10000 | 
+                 N      2230 | 
+                 45      1665 | 
+                 100      1525 | 
+                 300      1421 | 
+                 500      1280 | 
+                 1000      1200 | 
+MONTREAL (YMQ)      CANADA | 
+ CA                 M      10000 | 
+                 N      2170 | 
+                 45      1615 | 
+                 100      1485 | 
+                 300      1391 | 
+                 500      1250 | 
+                 1000      1170 | 
+NEW YORK (NYC)      U.S.A. | 
+ CA,JL,OZ                 M      10000 | 
+                 N      2170 | 
+                 45      1615 | 
+                 100      1485 | 
+                 300      1391 | 
+                 500      1250 | 
+                 1000      1170 | 
+PORTLAND (PDX)      U.S.A. | 
+ CA,OZ                 M      10000 | 
+                 N      1860 | 
+                 45      1395 | 
+                 100      1275 | 
+                 300      1191 | 
+                 500      1070 | 
+                 1000      1000 | 
+SAN DIEGO (SAN)      U.S.A. | 
+ JL                 M      10000 | 
+                 N      1860 | 
+SAN FRANCISCO (SFO)      U.S.A. | 
+ CA,JL,OZ                 M      10000 | 
+                 N      1860 | 
+                 45      1395 | 
+                 100      1275 | 
+                 300      1191 | 
+                 500      1070 | 
+                 1000      1000 | 
+SAO PAULO (SAO)      BRAZIL | 
+ CA                 M      10000 | 
+                 N      3660 | 
+                 45      2715 | 
+                 100      2565 | 
+                 300      2051 | 
+                 500      1800 | 
+SEATTLE (SEA)      U.S.A. | 
+ JL,OZ                 M      10000 | 
+                 N      1860 | 
+                 45      1395 | 
+                 100      1275 | 
+                 300      1191 | 
+                 500      1070 | 
+                 1000      1000 | 
+VANCOUVER (YVR)      CANADA | 
+ CA,JL                 M      10000 | 
+                 N      1860 | 
+                 45      1395 | 
+                 100      1275 | 
+                 300      1191 | 
+                 500      1070 | 
+                 1000      1000 | 
+ABILENE (ABI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+AKRON CANTON  (CAK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+ALBANY  (ALB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+ALBUQUERQUE  (ABQ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+ALEXANDRIA (AEX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+ALLENTOWN (ABE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2299 | 
+AMARILLO (AMA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+ANCHORAGE (ANC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1835 | 
+APPLETON (ATW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+ARUBA (AUA)      ARUBA | 
+ KZ,NH                 M      10000 | 
+                 N      2422 | 
+ASHEVILLE (AVL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+ASPEN (ASE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+ATLANTA  (ATL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+AUGUSTA (AGS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+AUSTIN  (AUS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+BAKERSFEILD (BFL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+BALTIMORE (BWI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+BANGOR (BGR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2299 | 
+BATON ROUGE (BTR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+BATTLE CREEK (BTL)      U.S.A. | 
+ NH                 M      10000 | 
+                 N      2259 | 
+BEAUMONT (BPT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+BERMUDA (BDA)      BERMUDA | 
+ KZ,NH                 M      10000 | 
+                 N      2422 | 
+BILLINGS (BIL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+BINGHAMTON (BGM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+BIRMINGHAM (BHM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+BLOOMINGTON (BMI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+BOISE (BOI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+BOSTON (BOS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+BROWNSVILLE (BRO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+BUFFALO (BUF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+BURBANK (BUR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+BURLINGTON (BRL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+BURLINGTON (BTV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+CAPE GIRARDEAU (CGI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+CEDAR RAPIDS (CID)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+CHAMPAIGN (CMI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+CHARLESTON (CHS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+CHARLESTON (CRW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2299 | 
+CHARLOTTE (CLT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+CHARLOTTESVILLE (CHO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2299 | 
+CHATTANOOGA (CHA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+CHICAGO (CHI)      U.S.A. | 
+ CK,KZ,MU,NH                 M      10000 | 
+                 N      1860 | 
+                 45      1400 | 
+                 100      1270 | 
+                 300      1200 | 
+                 500      1100 | 
+                 1000      1030 | 
+CINCINNATI (CVG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2255 | 
+CLEVELAND (CLE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2255 | 
+COLLEGE STATION (CLL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+COLORADO SPRINGS (COS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+COLUMBIA (CAE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+COLUMBIA (COU)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+COLUMBUS (CMH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+COLUMBUS (CSG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+COLUMBUS (UBS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+CORPUS CHRISTI (CRP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+CRESTED BUTTE (CSE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+CURACAO (CUR)      NETHERLANDS ANTILLES | 
+ KZ,NH                 M      10000 | 
+                 N      2422 | 
+DALLAS/FORT WORTH (DFW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+DAYTON (DAY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2255 | 
+DAYTONA BEACH (DAB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+DECATUR (DEC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+DENVER (DEN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+DES MOINES (DSM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+DETROIT (DTT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2255 | 
+DUBUQUE (DBQ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+DULUTH (DLH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+DURANGO (DRO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+EL PASO (ELP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+EUGENE (EUG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+EVANSVILLE (EVV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+FAIRBANKS (FAI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1835 | 
+FARGO (FAR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+FAYETTEVILLE (FAY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+FAYETTEVILLE (FYV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+FLINT (FNT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+FORT LAUDERDALE (FLL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2335 | 
+FORT LEONARD WOOD (TBN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+FORT MYERS (FMY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+FORT SMITH (FSM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+FORT WAYNE (FWA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+FRESNO (FAT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+GAINESVILLE (GNV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+GRAND RAPIDS (GRR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2255 | 
+GREEN BAY (GRB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+GREENSBORO (GSO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+GREENVILLE (GSP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+GULFPORT (GPT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+GUNNISON (GUC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+HARLINGEN (HRL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+HARRISBURG (HAR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+HARTFORD (HFD)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+HILO (ITO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1809 | 
+HONOLULU (HNL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1785 | 
+HOOLEHUA (MKK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1809 | 
+HOUSTON (HOU)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+HUNTSVILLE (HSV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+IDAHO FALLS (IDA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+INDIANAPOLIS (IND)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2255 | 
+INYOKERN (IYK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+ISLIP (ISP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2299 | 
+JACKSON (JAC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+JACKSON (JAN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+JACKSON (MKL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+JACKSONVILLE (JAX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2305 | 
+JACKSONVILLE (OAJ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+JOPLIN (JLN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+KAHULUI (OGG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1809 | 
+KALAMAZOO (AZO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+KANSAS CITY (MKC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+KAUAI ISLAND (LIH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1809 | 
+KEY WEST (EYW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+KILLEEN (ILE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+KIRKSVILLE (IRK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+KNOXVILLE (TYS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+KONA (KOA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1855 | 
+LA CROSSE (LSE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+LAFAYETTE (LAF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+LAFAYETTE (LFT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+LAKE CHARLES (LCH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+LANSING (LAN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+LAREDO (LRD)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+LAS VEGAS (LAS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2205 | 
+LAWTON (LAW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+LEXINGTON (LEX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2255 | 
+LINCOLN (LNK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+LITTLE ROCK (LIT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+LONG BEACH (LGB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+LONGVIEW (GGG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+LOS ANGELES (LAX)      U.S.A. | 
+ CK,KZ,MU,NH                 M      10000 | 
+                 N      1590 | 
+                 45      1200 | 
+                 100      1080 | 
+                 300      1030 | 
+                 500      950 | 
+                 1000      880 | 
+LOUISVILLE (SDF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2255 | 
+LUBBOCK (LBB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+LYNCHBURG (LYH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2299 | 
+MACON (MCN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+MADISON (MSN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+MANCHESTER (MHT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+MARATHON (MTH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+MARION (MWA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+MARQUETTE (MQT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+MCALLEN (MFE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+MEDFORD (MFR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+MELBOURNE (MLB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+MEMPHIS (MEM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+MIAMI (MIA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2335 | 
+MIDLAND (MAF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+MILES CITY (MLS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+MILWAUKEE (MKE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+MINNEAPOLIS (MSP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2205 | 
+MOBILE (MOB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+MOLINE (MLI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+MONROE (MLU)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+MONTEREY (MRY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+MONTGOMERY (MGM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+MUSKEGON (MKG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+MYRTLE BEACH (MYR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+NAPLES (APF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+NASHVILLE (BNA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+NEW BERN (EWN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+NEW ORLEANS (MSY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2305 | 
+NEW YORK (NYC)      U.S.A. | 
+ KE,KZ,NH                 M      10000 | 
+                 N      2275 | 
+                 45      1709 | 
+NEWBURGH (SWF)      U.S.A. | 
+ NH                 M      10000 | 
+                 N      2299 | 
+NEWPORT NEWS (PHF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2299 | 
+NORFOLK (ORF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+OAKLAND (OAK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+OKLAHOMA CITY (OKC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+OMAHA (OMA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+ONTARIO (ONT)      U.S.A. | 
+ NH                 M      10000 | 
+                 N      1975 | 
+ORLANDO (ORL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2325 | 
+OWENSBORO (OWB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+OXNARD (OXR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+PADUCAH (PAH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+PALM SPRINGS (PSP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+PANAMA CITY (ECP)      U.S.A. | 
+ KZ                 M      10000 | 
+                 N      2359 | 
+PENSACOLA (PNS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+PEORIA (PIA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+PHILADELPHIA (PHL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+PHOENIX (PHX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2205 | 
+PITTSBURGH (PIT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+POINTE A PITRE (PTP)      GUADELOUPE | 
+ KZ,NH                 M      10000 | 
+                 N      2453 | 
+PORTLAND (PDX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1975 | 
+PORTLAND (PWM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2299 | 
+PRESQUE ISLE (PQI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2299 | 
+PROVIDENCE (PVD)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+QUINCY (UIN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+RALEIGH DURHAM (RDU)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+RENO (RNO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2205 | 
+RICHMOND (RIC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+ROANOKE RAIDS (RZZ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+ROCHESTER (ROC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+ROCHESTER (RST)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+SACRAMENTO (SAC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1975 | 
+SAGINAW (MBS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+SALT LAKE CITY (SLC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+SAN ANGELO (SJT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+SAN ANTONIO (SAT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+SAN DIEGO (SAN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2085 | 
+SAN FRANCISCO (SFO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1975 | 
+SAN JOSE (SJC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1975 | 
+SAN JUAN (SJU)      PUERTO RICO | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+SAN LUIS OBISPO (SBP)      U.S.A. | 
+ KZ                 M      10000 | 
+                 N      1999 | 
+SANTA ANA (SNA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+SANTA BARBARA (SBA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+SANTA MARIA (SMX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+SARASOTA (SRQ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+SAVANNAH (SAV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+SEATTLE (SEA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1975 | 
+SHREVEPORT (SHV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+SIOUX CITY (SUX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+SIOUX FALLS (FSD)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+SOUTH BEND (SBN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+SPOKANE (GEG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1975 | 
+SPRINGFIELD (SFY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2299 | 
+SPRINGFIELD (SGF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+SPRINGFIELD (SPI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+ST LOUIS (STL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+ST MAARTEN (SXM)      NETHERLANDS ANTILLES | 
+ KZ                 M      10000 | 
+                 N      2422 | 
+ST THOMAS ISLAND (STT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2400 | 
+STEAMBOAT SPRINGS (SBS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+SYRACUSE (SYR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+TALLAHASSEE (TLH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+TAMPA (TPA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2325 | 
+TEXARKANA (TXK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+TOLEDO (TOL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2255 | 
+TRAVERSE CITY (TVC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+TRI-CITY (TRI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+TUCSON (TUS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2205 | 
+TULSA (TUL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+TUPELO (TUP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+TUSCALOOSA (TCL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+TYLER (TYR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+VAIL/EAGLE (EGE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+VISALIA (VIS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1999 | 
+WACO (ACT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+WASHINGTON DC (WAS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+WATERLOO (ALO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+WAUSAU (AUW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2259 | 
+WEST PALM BEACH (PBI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+WESTCHESTER COUNTY (HPN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2299 | 
+WICHITA (ICT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+WICHITA FALLS (SPS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2235 | 
+WILMINGTON (ILM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2359 | 
+WORCESTER (ORH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+AKRON CANTON  (CAK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+ALBANY  (ALB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+ALBUQUERQUE  (ABQ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+ANCHORAGE (ANC)      U.S.A. | 
+ KE,KZ,NH                 M      10000 | 
+                 N      1650 | 
+                 45      1240 | 
+                 100      1120 | 
+                 200      1060 | 
+                 300      980 | 
+                 500      920 | 
+ANTIGUA (ANU)      ANTIGUA BARBUDA | 
+ KZ,NH                 M      10000 | 
+                 N      3060 | 
+ATLANTA  (ATL)      U.S.A. | 
+ KE,KZ,NH                 M      10000 | 
+                 N      2160 | 
+                 45      1615 | 
+                 100      1475 | 
+                 300      1373 | 
+                 500      1200 | 
+                 1000      1130 | 
+AUSTIN  (AUS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+BALTIMORE (BWI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+BARBADOS (BGI)      BARBADOS | 
+ KZ,NH                 M      10000 | 
+                 N      3060 | 
+BELEM (BEL)      BRAZIL | 
+ KZ,NH                 M      10000 | 
+                 N      3480 | 
+BELIZE CITY (BZE)      BELIZE | 
+ KZ,NH                 M      10000 | 
+                 N      3060 | 
+BERMUDA (BDA)      BERMUDA | 
+ KZ,NH                 M      10000 | 
+                 N      3060 | 
+BINGHAMTON (BGM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+BIRMINGHAM (BHM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+BOGOTA (BOG)      COLOMBIA | 
+ KZ,NH                 M      10000 | 
+                 N      3230 | 
+BOSTON (BOS)      U.S.A. | 
+ KE,KZ,NH                 M      10000 | 
+                 N      1990 | 
+                 45      1490 | 
+                 100      1350 | 
+                 200      1290 | 
+                 300      1190 | 
+                 500      1100 | 
+BUENOS AIRES (BUE)      ARGENTINA | 
+ KZ,NH                 M      10000 | 
+                 N      3500 | 
+BUFFALO (BUF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+BURLINGTON (BTV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+CALGARY (YYC)      CANADA | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+CARACAS (CCS)      VENEZUELA | 
+ KZ,NH                 M      10000 | 
+                 N      3060 | 
+CEDAR RAPIDS (CID)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+CHARLOTTE (CLT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+CHICAGO (CHI)      U.S.A. | 
+ KE,KZ,NH                 M      10000 | 
+                 N      2120 | 
+                 45      1585 | 
+                 100      1445 | 
+                 300      1343 | 
+                 500      1180 | 
+                 1000      1110 | 
+CINCINNATI (CVG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2140 | 
+CLEVELAND (CLE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2140 | 
+COLUMBUS (CMH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+CURACAO (CUR)      NETHERLANDS ANTILLES | 
+ KZ,NH                 M      10000 | 
+                 N      3060 | 
+DALLAS/FORT WORTH (DFW)      U.S.A. | 
+ KE,KZ,NH                 M      10000 | 
+                 N      2120 | 
+                 45      1585 | 
+                 100      1445 | 
+                 300      1343 | 
+                 500      1180 | 
+                 1000      1110 | 
+DAYTON (DAY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2140 | 
+DENVER (DEN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+DES MOINES (DSM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+DETROIT (DTT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2140 | 
+DOMINICA (DOM)      DOMINICA | 
+ KZ,NH                 M      10000 | 
+                 N      3060 | 
+EDMONTON (YEA)      CANADA | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+EL PASO (ELP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+FAIRBANKS (FAI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1720 | 
+FORT DE FRANCE (FDF)      MARTINIQUE | 
+ KZ,NH                 M      10000 | 
+                 N      3060 | 
+FORT LAUDERDALE (FLL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2220 | 
+FORT WAYNE (FWA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+GRAND RAPIDS (GRR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2140 | 
+GREENSBORO (GSO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+GREENVILLE (GSP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+GRENADA (GND)      GRENADA | 
+ KZ,NH                 M      10000 | 
+                 N      3060 | 
+GUADALAJARA (GDL)      MEXICO | 
+ KE,NH                 M      10000 | 
+                 N      2530 | 
+                 45      1940 | 
+                 100      1750 | 
+                 300      1410 | 
+                 500      1280 | 
+GUATEMALA CITY (GUA)      GUATEMALA | 
+ KZ,NH                 M      10000 | 
+                 N      3000 | 
+GUAYAQUIL (GYE)      ECUADOR | 
+ KZ,NH                 M      10000 | 
+                 N      3280 | 
+HALIFAX (YHZ)      CANADA | 
+ KE,KZ,NH                 M      8150 | 
+                 N      1970 | 
+                 45      1480 | 
+                 100      1340 | 
+                 200      1280 | 
+                 300      1180 | 
+                 500      1090 | 
+HARRISBURG (HAR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+HARTFORD (HFD)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+HAVANA (HAV)      CUBA | 
+ KZ,NH                 M      10000 | 
+                 N      3060 | 
+HILO (ITO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1694 | 
+HONOLULU (HNL)      U.S.A. | 
+ KE,KZ,NH                 M      10000 | 
+                 N      1670 | 
+                 45      1250 | 
+                 100      1140 | 
+HOOLEHUA (MKK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1694 | 
+HOUSTON (HOU)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+HUNTSVILLE (HSV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+INDIANAPOLIS (IND)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2140 | 
+JACKSONVILLE (JAX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2190 | 
+KAHULUI (OGG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1694 | 
+KANSAS CITY (MKC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+KAUAI ISLAND (LIH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1694 | 
+KINGSTON (KIN)      JAMAICA | 
+ KZ,NH                 M      10000 | 
+                 N      3060 | 
+KNOXVILLE (TYS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+KONA (KOA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1694 | 
+LA PAZ (LPB)      BOLIVIA | 
+ KZ,NH                 M      10000 | 
+                 N      3630 | 
+LAS VEGAS (LAS)      U.S.A. | 
+ KE,KZ,NH                 M      10000 | 
+                 N      2090 | 
+                 45      1565 | 
+                 100      1425 | 
+                 300      1323 | 
+                 500      1160 | 
+                 1000      1090 | 
+LEXINGTON (LEX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2140 | 
+LIMA (LIM)      PERU | 
+ KE,KZ,NH                 M      10000 | 
+                 N      3410 | 
+                 45      2555 | 
+                 100      2395 | 
+                 300      1873 | 
+                 500      1620 | 
+LONDON (YXU)      CANADA | 
+ KZ,NH                 M      10000 | 
+                 N      1975 | 
+LOS ANGELES (LAX)      U.S.A. | 
+ KE,KZ,NH                 M      10000 | 
+                 N      1860 | 
+                 45      1385 | 
+                 100      1265 | 
+                 300      1173 | 
+                 500      1020 | 
+                 1000      960 | 
+LOUISVILLE (SDF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2140 | 
+MANAUS (MAO)      BRAZIL | 
+ KZ,NH                 M      10000 | 
+                 N      3480 | 
+MANCHESTER (MHT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+MARACAIBO (MAR)      VENEZUELA | 
+ KZ,NH                 M      10000 | 
+                 N      3060 | 
+MEMPHIS (MEM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+MEXICO CITY (MEX)      MEXICO | 
+ KZ,NH                 M      10000 | 
+                 N      2620 | 
+MIAMI (MIA)      U.S.A. | 
+ KE,KZ,NH                 M      10000 | 
+                 N      2300 | 
+                 45      1700 | 
+                 100      1550 | 
+MILWAUKEE (MKE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+MINNEAPOLIS (MSP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2090 | 
+MONTEVIDEO (MVD)      URUGUAY | 
+ KZ,NH                 M      10000 | 
+                 N      3500 | 
+MONTREAL (YMQ)      CANADA | 
+ KE,KZ,NH                 M      10000 | 
+                 N      2160 | 
+                 45      1605 | 
+                 100      1475 | 
+                 300      1373 | 
+                 500      1200 | 
+NASHVILLE (BNA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+NASSAU (NAS)      BAHAMAS | 
+ KZ,NH                 M      10000 | 
+                 N      3060 | 
+NEW ORLEANS (MSY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2190 | 
+NEW YORK (NYC)      U.S.A. | 
+ KE,KZ,NH                 M      10000 | 
+                 N      2160 | 
+                 45      1615 | 
+                 100      1475 | 
+                 300      1373 | 
+                 500      1200 | 
+                 1000      1130 | 
+NORFOLK (ORF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+OKLAHOMA CITY (OKC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+OMAHA (OMA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+ORLANDO (ORL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2210 | 
+OTTAWA (YOW)      CANADA | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+PANAMA CITY (PTY)      PANAMA | 
+ KZ,NH                 M      10000 | 
+                 N      3140 | 
+PHILADELPHIA (PHL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+PHOENIX (PHX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2090 | 
+PITTSBURGH (PIT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+POINTE A PITRE (PTP)      GUADELOUPE | 
+ KZ,NH                 M      10000 | 
+                 N      3060 | 
+PORT OF SPAIN (POS)      TRINIDAD TOBAGO | 
+ KZ,NH                 M      10000 | 
+                 N      3060 | 
+PORTLAND (PDX)      U.S.A. | 
+ KE,KZ,NH                 M      10000 | 
+                 N      1710 | 
+                 45      1280 | 
+                 100      1160 | 
+                 300      1090 | 
+                 500      960 | 
+                 1000      900 | 
+PORTO ALEGRE (POA)      BRAZIL | 
+ KZ,NH                 M      10000 | 
+                 N      3790 | 
+PROVIDENCE (PVD)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+QUITO (UIO)      ECUADOR | 
+ KZ,NH                 M      10000 | 
+                 N      3270 | 
+RALEIGH DURHAM (RDU)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+RICHMOND (RIC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+RIO DE JANEIRO (RIO)      BRAZIL | 
+ KZ,NH                 M      10000 | 
+                 N      3690 | 
+ROCHESTER (ROC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+SACRAMENTO (SAC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1860 | 
+SALT LAKE CITY (SLC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+SAN ANTONIO (SAT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+SAN DIEGO (SAN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1970 | 
+SAN FRANCISCO (SFO)      U.S.A. | 
+ KE,KZ,NH                 M      10000 | 
+                 N      1860 | 
+                 45      1385 | 
+                 100      1265 | 
+SAN JOSE (SJO)      COSTA RICA | 
+ KZ,NH                 M      10000 | 
+                 N      3050 | 
+SAN JUAN (SJU)      PUERTO RICO | 
+ KZ,NH                 M      10000 | 
+                 N      2244 | 
+SAN PEDRO SULA (SAP)      HONDURAS | 
+ KZ,NH                 M      10000 | 
+                 N      3070 | 
+SAN SALVADOR (SAL)      EL SALVADOR | 
+ KZ,NH                 M      10000 | 
+                 N      3030 | 
+SANTIAGO (SCL)      CHILE | 
+ KE,KZ,NH                 M      10000 | 
+                 N      3500 | 
+                 45      2635 | 
+                 100      2485 | 
+                 300      1943 | 
+                 500      1730 | 
+SANTO DOMINGO (SDQ)      DOMINICAN REP. | 
+ KZ,NH                 M      10000 | 
+                 N      3060 | 
+SAO PAULO (SAO)      BRAZIL | 
+ KE,KZ,NH                 M      10000 | 
+                 N      2580 | 
+                 45      2030 | 
+                 100      1885 | 
+SEATTLE (SEA)      U.S.A. | 
+ KE,KZ,NH                 M      10000 | 
+                 N      1860 | 
+                 45      1385 | 
+                 100      1265 | 
+                 300      1173 | 
+                 500      1020 | 
+                 1000      960 | 
+SOUTH BEND (SBN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+SPOKANE (GEG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1860 | 
+ST LOUIS (STL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+SYRACUSE (SYR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+TAMPA (TPA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2210 | 
+TEGUCIGALPA (TGU)      HONDURAS | 
+ KZ,NH                 M      10000 | 
+                 N      3030 | 
+TIJUANA (TIJ)      MEXICO | 
+ KZ,NH                 M      10000 | 
+                 N      2460 | 
+TOBAGO (TAB)      TRINIDAD TOBAGO | 
+ KZ,NH                 M      10000 | 
+                 N      3060 | 
+TOLEDO (TOL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2140 | 
+TORONTO (YTO)      CANADA | 
+ KE,KZ,NH                 M      10000 | 
+                 N      2200 | 
+                 45      1650 | 
+                 100      1500 | 
+TUCSON (TUS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2090 | 
+TULSA (TUL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+VANCOUVER (YVR)      CANADA | 
+ KE,KZ,NH                 M      10000 | 
+                 N      1860 | 
+                 45      1385 | 
+                 100      1265 | 
+WASHINGTON DC (WAS)      U.S.A. | 
+ KE,KZ,NH                 M      10000 | 
+                 N      2160 | 
+                 45      1615 | 
+                 100      1475 | 
+                 300      1373 | 
+                 500      1200 | 
+                 1000      1130 | 
+WICHITA (ICT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+WICHITA FALLS (SPS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2120 | 
+WINDSOR (YQG)      CANADA | 
+ KZ,NH                 M      10000 | 
+                 N      1947 | 
+WINNIPEG (YWG)      CANADA | 
+ KZ,NH                 M      10000 | 
+                 N      2140 | 
+WORCESTER (ORH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2160 | 
+CHICAGO (CHI)      U.S.A. | 
+ CK,MU                 M      10000 | 
+                 N      1860 | 
+                 45      1400 | 
+                 100      1270 | 
+                 300      1200 | 
+                 500      1100 | 
+                 1000      1030 | 
+LOS ANGELES (LAX)      U.S.A. | 
+ CK,KE,MU                 M      10000 | 
+                 N      1590 | 
+                 45      1200 | 
+                 100      1080 | 
+                 300      1030 | 
+                 500      950 | 
+                 1000      880 | 
+NEW YORK (NYC)      U.S.A. | 
+ KE                 M      10000 | 
+                 N      1910 | 
+                 45      1430 | 
+                 100      1300 | 
+                 300      1240 | 
+                 500      1140 | 
+CHICAGO (CHI)      U.S.A. | 
+ CK,MU                 M      10000 | 
+                 N      1860 | 
+                 45      1400 | 
+                 100      1270 | 
+                 300      1200 | 
+                 500      1100 | 
+                 1000      1030 | 
+LOS ANGELES (LAX)      U.S.A. | 
+ CK,MU                 M      10000 | 
+                 N      1590 | 
+                 45      1200 | 
+                 100      1080 | 
+                 300      1030 | 
+                 500      950 | 
+                 1000      880 | 
+ABILENE (ABI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+AKRON CANTON  (CAK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+ALBANY  (ALB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+ALBUQUERQUE  (ABQ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+ALEXANDRIA (AEX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+ALLENTOWN (ABE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2249 | 
+AMARILLO (AMA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+ANCHORAGE (ANC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1785 | 
+APPLETON (ATW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+ARUBA (AUA)      ARUBA | 
+ KZ,NH                 M      10000 | 
+                 N      2372 | 
+ASHEVILLE (AVL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+ASPEN (ASE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+ATLANTA  (ATL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+AUGUSTA (AGS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+AUSTIN  (AUS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+BAKERSFEILD (BFL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+BALTIMORE (BWI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+BANGOR (BGR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2249 | 
+BATON ROUGE (BTR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+BATTLE CREEK (BTL)      U.S.A. | 
+ NH                 M      10000 | 
+                 N      2209 | 
+BEAUMONT (BPT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+BERMUDA (BDA)      BERMUDA | 
+ KZ,NH                 M      10000 | 
+                 N      2372 | 
+BILLINGS (BIL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+BINGHAMTON (BGM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+BIRMINGHAM (BHM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+BLOOMINGTON (BMI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+BOISE (BOI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+BOSTON (BOS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+BROWNSVILLE (BRO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+BUFFALO (BUF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+BURBANK (BUR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+BURLINGTON (BRL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+BURLINGTON (BTV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+CAPE GIRARDEAU (CGI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+CEDAR RAPIDS (CID)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+CHAMPAIGN (CMI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+CHARLESTON (CHS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+CHARLESTON (CRW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2249 | 
+CHARLOTTE (CLT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+CHARLOTTESVILLE (CHO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2249 | 
+CHATTANOOGA (CHA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+CHICAGO (CHI)      U.S.A. | 
+ CK,KZ,MU,NH                 M      10000 | 
+                 N      1860 | 
+                 45      1400 | 
+                 100      1270 | 
+                 300      1200 | 
+                 500      1100 | 
+                 1000      1030 | 
+CINCINNATI (CVG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2205 | 
+CLEVELAND (CLE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2205 | 
+COLLEGE STATION (CLL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+COLORADO SPRINGS (COS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+COLUMBIA (CAE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+COLUMBIA (COU)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+COLUMBUS (CMH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+COLUMBUS (CSG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+COLUMBUS (UBS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+CORPUS CHRISTI (CRP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+CRESTED BUTTE (CSE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+CURACAO (CUR)      NETHERLANDS ANTILLES | 
+ KZ,NH                 M      10000 | 
+                 N      2372 | 
+DALLAS/FORT WORTH (DFW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+DAYTON (DAY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2205 | 
+DAYTONA BEACH (DAB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+DECATUR (DEC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+DENVER (DEN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+DES MOINES (DSM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+DETROIT (DTT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2205 | 
+DUBUQUE (DBQ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+DULUTH (DLH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+DURANGO (DRO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+EL PASO (ELP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+EUGENE (EUG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+EVANSVILLE (EVV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+FAIRBANKS (FAI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1785 | 
+FARGO (FAR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+FAYETTEVILLE (FAY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+FAYETTEVILLE (FYV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+FLINT (FNT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+FORT LAUDERDALE (FLL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2285 | 
+FORT LEONARD WOOD (TBN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+FORT MYERS (FMY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+FORT SMITH (FSM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+FORT WAYNE (FWA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+FRESNO (FAT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+GAINESVILLE (GNV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+GRAND RAPIDS (GRR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2205 | 
+GREEN BAY (GRB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+GREENSBORO (GSO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+GREENVILLE (GSP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+GULFPORT (GPT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+GUNNISON (GUC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+HARLINGEN (HRL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+HARRISBURG (HAR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+HARTFORD (HFD)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+HILO (ITO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1759 | 
+HONOLULU (HNL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1735 | 
+HOOLEHUA (MKK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1759 | 
+HOUSTON (HOU)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+HUNTSVILLE (HSV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+IDAHO FALLS (IDA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+INDIANAPOLIS (IND)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2205 | 
+INYOKERN (IYK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+ISLIP (ISP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2249 | 
+JACKSON (JAC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+JACKSON (JAN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+JACKSON (MKL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+JACKSONVILLE (JAX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2255 | 
+JACKSONVILLE (OAJ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+JOPLIN (JLN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+KAHULUI (OGG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1759 | 
+KALAMAZOO (AZO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+KANSAS CITY (MKC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+KAUAI ISLAND (LIH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1759 | 
+KEY WEST (EYW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+KILLEEN (ILE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+KIRKSVILLE (IRK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+KNOXVILLE (TYS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+KONA (KOA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1805 | 
+LA CROSSE (LSE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+LAFAYETTE (LAF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+LAFAYETTE (LFT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+LAKE CHARLES (LCH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+LANSING (LAN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+LAREDO (LRD)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+LAS VEGAS (LAS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2155 | 
+LAWTON (LAW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+LEXINGTON (LEX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2205 | 
+LINCOLN (LNK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+LITTLE ROCK (LIT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+LONG BEACH (LGB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+LONGVIEW (GGG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+LOS ANGELES (LAX)      U.S.A. | 
+ CK,KZ,MU,NH                 M      10000 | 
+                 N      1590 | 
+                 45      1200 | 
+                 100      1080 | 
+                 300      1030 | 
+                 500      950 | 
+                 1000      880 | 
+LOUISVILLE (SDF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2205 | 
+LUBBOCK (LBB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+LYNCHBURG (LYH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2249 | 
+MACON (MCN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+MADISON (MSN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+MANCHESTER (MHT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+MARATHON (MTH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+MARION (MWA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+MARQUETTE (MQT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+MCALLEN (MFE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+MEDFORD (MFR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+MELBOURNE (MLB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+MEMPHIS (MEM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+MIAMI (MIA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2285 | 
+MIDLAND (MAF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+MILES CITY (MLS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+MILWAUKEE (MKE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+MINNEAPOLIS (MSP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2155 | 
+MOBILE (MOB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+MOLINE (MLI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+MONROE (MLU)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+MONTEREY (MRY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+MONTGOMERY (MGM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+MUSKEGON (MKG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+MYRTLE BEACH (MYR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+NAPLES (APF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+NASHVILLE (BNA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+NEW BERN (EWN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+NEW ORLEANS (MSY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2255 | 
+NEW YORK (NYC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+NEWBURGH (SWF)      U.S.A. | 
+ NH                 M      10000 | 
+                 N      2249 | 
+NEWPORT NEWS (PHF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2249 | 
+NORFOLK (ORF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+OAKLAND (OAK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+OKLAHOMA CITY (OKC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+OMAHA (OMA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+ONTARIO (ONT)      U.S.A. | 
+ NH                 M      10000 | 
+                 N      1925 | 
+ORLANDO (ORL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+OWENSBORO (OWB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+OXNARD (OXR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+PADUCAH (PAH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+PALM SPRINGS (PSP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+PANAMA CITY (ECP)      U.S.A. | 
+ KZ                 M      10000 | 
+                 N      2309 | 
+PENSACOLA (PNS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+PEORIA (PIA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+PHILADELPHIA (PHL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+PHOENIX (PHX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2155 | 
+PITTSBURGH (PIT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+POINTE A PITRE (PTP)      GUADELOUPE | 
+ KZ,NH                 M      10000 | 
+                 N      2403 | 
+PORTLAND (PDX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1925 | 
+PORTLAND (PWM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2249 | 
+PRESQUE ISLE (PQI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2249 | 
+PROVIDENCE (PVD)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+QUINCY (UIN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+RALEIGH DURHAM (RDU)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+RENO (RNO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2155 | 
+RICHMOND (RIC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+ROANOKE RAIDS (RZZ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+ROCHESTER (ROC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+ROCHESTER (RST)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+SACRAMENTO (SAC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1925 | 
+SAGINAW (MBS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+SALT LAKE CITY (SLC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+SAN ANGELO (SJT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+SAN ANTONIO (SAT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+SAN DIEGO (SAN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2035 | 
+SAN FRANCISCO (SFO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1925 | 
+SAN JOSE (SJC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1925 | 
+SAN JUAN (SJU)      PUERTO RICO | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+SAN LUIS OBISPO (SBP)      U.S.A. | 
+ KZ                 M      10000 | 
+                 N      1949 | 
+SANTA ANA (SNA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+SANTA BARBARA (SBA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+SANTA MARIA (SMX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+SARASOTA (SRQ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+SAVANNAH (SAV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+SEATTLE (SEA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1925 | 
+SHREVEPORT (SHV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+SIOUX CITY (SUX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+SIOUX FALLS (FSD)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+SOUTH BEND (SBN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+SPOKANE (GEG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1925 | 
+SPRINGFIELD (SFY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2249 | 
+SPRINGFIELD (SGF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+SPRINGFIELD (SPI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+ST LOUIS (STL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+ST MAARTEN (SXM)      NETHERLANDS ANTILLES | 
+ KZ                 M      10000 | 
+                 N      2372 | 
+ST THOMAS ISLAND (STT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2350 | 
+STEAMBOAT SPRINGS (SBS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+SYRACUSE (SYR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+TALLAHASSEE (TLH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+TAMPA (TPA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2275 | 
+TEXARKANA (TXK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+TOLEDO (TOL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2205 | 
+TRAVERSE CITY (TVC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+TRI-CITY (TRI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+TUCSON (TUS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2155 | 
+TULSA (TUL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+TUPELO (TUP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+TUSCALOOSA (TCL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+TYLER (TYR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+VAIL/EAGLE (EGE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+VISALIA (VIS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1949 | 
+WACO (ACT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+WASHINGTON DC (WAS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+WATERLOO (ALO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+WAUSAU (AUW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+WEST PALM BEACH (PBI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+WESTCHESTER COUNTY (HPN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2249 | 
+WICHITA (ICT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+WICHITA FALLS (SPS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+WILMINGTON (ILM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2309 | 
+WORCESTER (ORH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2225 | 
+ATLANTA  (ATL)      U.S.A. | 
+ KE                 M      10000 | 
+                 N      1870 | 
+                 45      1400 | 
+                 100      1270 | 
+                 300      1210 | 
+                 500      1110 | 
+CHICAGO (CHI)      U.S.A. | 
+ CK,KE,MU                 M      10000 | 
+                 N      1860 | 
+                 45      1400 | 
+                 100      1270 | 
+                 300      1200 | 
+                 500      1100 | 
+                 1000      1030 | 
+HONOLULU (HNL)      U.S.A. | 
+ AF,JL,KE,KL,KZ,NH                 M      10000 | 
+                 N      1410 | 
+                 45      1050 | 
+                 100      960 | 
+                 300      910 | 
+                 500      830 | 
+                 1000      780 | 
+KAHULUI (OGG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1410 | 
+KONA (KOA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1410 | 
+LOS ANGELES (LAX)      U.S.A. | 
+ CK,KE,MU                 M      10000 | 
+                 N      1590 | 
+                 45      1200 | 
+                 100      1080 | 
+                 300      1030 | 
+                 500      950 | 
+                 1000      880 | 
+MIAMI (MIA)      U.S.A. | 
+ KE                 M      10000 | 
+                 N      1933 | 
+                 45      1450 | 
+NEW YORK (NYC)      U.S.A. | 
+ KE                 M      10000 | 
+                 N      1865 | 
+                 45      1393 | 
+SAN FRANCISCO (SFO)      U.S.A. | 
+ KE                 M      10000 | 
+                 N      1571 | 
+                 45      1186 | 
+TORONTO (YTO)      CANADA | 
+ KE                 M      10000 | 
+                 N      1864 | 
+                 45      1393 | 
+VANCOUVER (YVR)      CANADA | 
+ KE                 M      10000 | 
+                 N      1561 | 
+                 45      1178 | 
+CHICAGO (CHI)      U.S.A. | 
+ CK,MU                 M      10000 | 
+                 N      1860 | 
+                 45      1400 | 
+                 100      1270 | 
+                 300      1200 | 
+                 500      1100 | 
+                 1000      1030 | 
+LOS ANGELES (LAX)      U.S.A. | 
+ CK,MU                 M      10000 | 
+                 N      1590 | 
+                 45      1200 | 
+                 100      1080 | 
+                 300      1030 | 
+                 500      950 | 
+                 1000      880 | 
+ABILENE (ABI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+AGUADILLA (BQN)      PUERTO RICO | 
+ UA                 M      10000 | 
+AKRON CANTON  (CAK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2390 | 
+ALBANY  (ALB)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+ALBUQUERQUE  (ABQ)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2350 | 
+                 45      1746 | 
+                 100      1606 | 
+                 300      1469 | 
+                 500      1272 | 
+                 1000      1202 | 
+ALEXANDRIA (AEX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+ALLENTOWN (ABE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2414 | 
+AMARILLO (AMA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+ANCHORAGE (ANC)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      1950 | 
+                 45      1446 | 
+                 100      1336 | 
+                 300      1209 | 
+                 500      1032 | 
+                 1000      972 | 
+ANTIGUA (ANU)      ANTIGUA BARBUDA | 
+ KZ,NH                 M      10000 | 
+                 N      3290 | 
+APPLETON (ATW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+ARUBA (AUA)      ARUBA | 
+ KZ,NH                 M      10000 | 
+                 N      2537 | 
+ASHEVILLE (AVL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+ASPEN (ASE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+ATLANTA  (ATL)      U.S.A. | 
+ JL,KE,KZ,NH,OZ,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+AUGUSTA (AGS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+AUSTIN  (AUS)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2350 | 
+                 45      1746 | 
+                 100      1606 | 
+                 300      1469 | 
+                 500      1272 | 
+                 1000      1202 | 
+BAKERSFEILD (BFL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2114 | 
+BALTIMORE (BWI)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+BANGOR (BGR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2414 | 
+BARBADOS (BGI)      BARBADOS | 
+ KZ,NH                 M      10000 | 
+                 N      3290 | 
+BATON ROUGE (BTR)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2474 | 
+                 45      1840 | 
+                 100      1690 | 
+                 300      1563 | 
+                 500      1346 | 
+                 1000      1276 | 
+BATTLE CREEK (BTL)      U.S.A. | 
+ NH                 M      10000 | 
+                 N      2374 | 
+BEAUMONT (BPT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+BELEM (BEL)      BRAZIL | 
+ KZ,NH                 M      10000 | 
+                 N      3710 | 
+BELIZE CITY (BZE)      BELIZE | 
+ KZ,NH                 M      10000 | 
+                 N      3290 | 
+BERMUDA (BDA)      BERMUDA | 
+ KZ,NH                 M      10000 | 
+                 N      2537 | 
+BILLINGS (BIL)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2114 | 
+                 45      1570 | 
+                 100      1450 | 
+                 300      1323 | 
+                 500      1136 | 
+                 1000      1076 | 
+BINGHAMTON (BGM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2390 | 
+BIRMINGHAM (BHM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2390 | 
+BLOOMINGTON (BMI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+BOGOTA (BOG)      COLOMBIA | 
+ KZ,NH                 M      10000 | 
+                 N      3460 | 
+BOISE (BOI)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2114 | 
+                 45      1570 | 
+                 100      1450 | 
+                 300      1323 | 
+                 500      1136 | 
+                 1000      1076 | 
+BOSTON (BOS)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+BROWNSVILLE (BRO)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2374 | 
+                 45      1770 | 
+                 100      1630 | 
+                 300      1493 | 
+                 500      1296 | 
+                 1000      1226 | 
+BUENOS AIRES (BUE)      ARGENTINA | 
+ KE,KZ,NH                 M      10000 | 
+                 N      3730 | 
+                 45      2796 | 
+                 100      2646 | 
+                 300      2069 | 
+                 500      1822 | 
+BUFFALO (BUF)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+BURBANK (BUR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2114 | 
+BURLINGTON (BRL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+BURLINGTON (BTV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2390 | 
+CALGARY (YYC)      CANADA | 
+ KZ,NH                 M      10000 | 
+                 N      2350 | 
+CAPE GIRARDEAU (CGI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+CARACAS (CCS)      VENEZUELA | 
+ KZ,NH                 M      10000 | 
+                 N      3290 | 
+CEDAR RAPIDS (CID)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2350 | 
+                 45      1746 | 
+                 100      1606 | 
+                 300      1469 | 
+                 500      1272 | 
+                 1000      1202 | 
+CHAMPAIGN (CMI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+CHARLESTON (CHS)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2474 | 
+                 45      1840 | 
+                 100      1690 | 
+                 300      1563 | 
+                 500      1346 | 
+                 1000      1276 | 
+CHARLESTON (CRW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2414 | 
+CHARLOTTE (CLT)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+CHARLOTTESVILLE (CHO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2414 | 
+CHATTANOOGA (CHA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+CHICAGO (CHI)      U.S.A. | 
+ CK,JL,KE,KZ,LO,MU,NH,OZ,UA                 M      10000 | 
+                 N      1860 | 
+                 45      1400 | 
+                 100      1270 | 
+                 300      1200 | 
+                 500      1100 | 
+                 1000      1030 | 
+CINCINNATI (CVG)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2370 | 
+                 45      1766 | 
+                 100      1616 | 
+                 300      1489 | 
+                 500      1282 | 
+                 1000      1212 | 
+CLEVELAND (CLE)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2370 | 
+                 45      1766 | 
+                 100      1616 | 
+                 300      1489 | 
+                 500      1282 | 
+                 1000      1212 | 
+COLLEGE STATION (CLL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+COLORADO SPRINGS (COS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+COLUMBIA (CAE)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2474 | 
+                 45      1840 | 
+                 100      1690 | 
+                 300      1563 | 
+                 500      1346 | 
+                 1000      1276 | 
+COLUMBIA (COU)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+COLUMBUS (CMH)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2350 | 
+                 45      1746 | 
+                 100      1606 | 
+                 300      1469 | 
+                 500      1272 | 
+                 1000      1202 | 
+COLUMBUS (CSG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+COLUMBUS (UBS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+CORPUS CHRISTI (CRP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+CRESTED BUTTE (CSE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+CURACAO (CUR)      NETHERLANDS ANTILLES | 
+ KZ,NH                 M      10000 | 
+                 N      2537 | 
+DALLAS/FORT WORTH (DFW)      U.S.A. | 
+ JL,KZ,NH,OZ,UA                 M      10000 | 
+                 N      2350 | 
+                 45      1746 | 
+                 100      1606 | 
+                 300      1469 | 
+                 500      1272 | 
+                 1000      1202 | 
+DAYTON (DAY)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2370 | 
+                 45      1766 | 
+                 100      1616 | 
+                 300      1489 | 
+                 500      1282 | 
+                 1000      1212 | 
+DAYTONA BEACH (DAB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+DECATUR (DEC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+DENVER (DEN)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2350 | 
+                 45      1746 | 
+                 100      1606 | 
+                 300      1469 | 
+                 500      1272 | 
+                 1000      1202 | 
+DES MOINES (DSM)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2350 | 
+                 45      1746 | 
+                 100      1606 | 
+                 300      1469 | 
+                 500      1272 | 
+                 1000      1202 | 
+DETROIT (DTT)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2370 | 
+                 45      1766 | 
+                 100      1616 | 
+                 300      1489 | 
+                 500      1282 | 
+                 1000      1212 | 
+DOMINICA (DOM)      DOMINICA | 
+ KZ,NH                 M      10000 | 
+                 N      3290 | 
+DUBUQUE (DBQ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+DULUTH (DLH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+DURANGO (DRO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+EDMONTON (YEA)      CANADA | 
+ KZ,NH                 M      10000 | 
+                 N      2350 | 
+EL PASO (ELP)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2350 | 
+                 45      1746 | 
+                 100      1606 | 
+                 300      1469 | 
+                 500      1272 | 
+                 1000      1202 | 
+EUGENE (EUG)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2114 | 
+                 45      1570 | 
+                 100      1450 | 
+                 300      1323 | 
+                 500      1136 | 
+                 1000      1076 | 
+EVANSVILLE (EVV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+FAIRBANKS (FAI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1950 | 
+FARGO (FAR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+FAYETTEVILLE (FAY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+FAYETTEVILLE (FYV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+FLINT (FNT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+FORT DE FRANCE (FDF)      MARTINIQUE | 
+ KZ,NH                 M      10000 | 
+                 N      3290 | 
+FORT LAUDERDALE (FLL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2450 | 
+FORT LEONARD WOOD (TBN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+FORT MYERS (FMY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+FORT SMITH (FSM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+FORT WAYNE (FWA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2350 | 
+FRESNO (FAT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2114 | 
+GAINESVILLE (GNV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+GRAND RAPIDS (GRR)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2370 | 
+                 45      1766 | 
+                 100      1616 | 
+                 300      1489 | 
+                 500      1282 | 
+                 1000      1212 | 
+GREEN BAY (GRB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+GREENSBORO (GSO)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+GREENVILLE (GSP)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+GRENADA (GND)      GRENADA | 
+ KZ,NH                 M      10000 | 
+                 N      3290 | 
+GUADALAJARA (GDL)      MEXICO | 
+ JL                 M      10000 | 
+                 N      2650 | 
+GUATEMALA CITY (GUA)      GUATEMALA | 
+ KZ,NH                 M      10000 | 
+                 N      3230 | 
+GUAYAQUIL (GYE)      ECUADOR | 
+ KZ,NH                 M      10000 | 
+                 N      3510 | 
+GULFPORT (GPT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+GUNNISON (GUC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+HALIFAX (YHZ)      CANADA | 
+ KZ,NH                 M      10000 | 
+                 N      2510 | 
+HARLINGEN (HRL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+HARRISBURG (HAR)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+HARTFORD (HFD)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+HAVANA (HAV)      CUBA | 
+ KZ,NH                 M      10000 | 
+                 N      3290 | 
+HILO (ITO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1924 | 
+HONOLULU (HNL)      U.S.A. | 
+ CA,JL,KZ,NH,OZ,UA                 M      10000 | 
+                 N      1900 | 
+                 45      1406 | 
+                 100      1296 | 
+                 300      1179 | 
+                 500      1002 | 
+                 1000      942 | 
+HOOLEHUA (MKK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1924 | 
+HOUSTON (HOU)      U.S.A. | 
+ JL,KE,KZ,NH,UA                 M      10000 | 
+                 N      2350 | 
+                 45      1746 | 
+                 100      1606 | 
+                 300      1469 | 
+                 500      1272 | 
+                 1000      1202 | 
+HUNTSVILLE (HSV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2390 | 
+IDAHO FALLS (IDA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2114 | 
+INDIANAPOLIS (IND)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2370 | 
+                 45      1766 | 
+                 100      1616 | 
+                 300      1489 | 
+                 500      1282 | 
+                 1000      1212 | 
+INYOKERN (IYK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2114 | 
+ISLIP (ISP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2414 | 
+JACKSON (JAC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2114 | 
+JACKSON (JAN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+JACKSON (MKL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+JACKSONVILLE (JAX)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2420 | 
+                 45      1796 | 
+                 100      1656 | 
+                 300      1519 | 
+                 500      1312 | 
+                 1000      1232 | 
+JACKSONVILLE (OAJ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+JOPLIN (JLN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+KAHULUI (OGG)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      1924 | 
+                 45      1430 | 
+                 100      1320 | 
+                 300      1203 | 
+                 500      1026 | 
+                 1000      966 | 
+KALAMAZOO (AZO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+KANSAS CITY (MKC)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2350 | 
+                 45      1746 | 
+                 100      1606 | 
+                 300      1469 | 
+                 500      1272 | 
+                 1000      1202 | 
+KAUAI ISLAND (LIH)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      1924 | 
+                 45      1430 | 
+                 100      1320 | 
+                 300      1203 | 
+                 500      1026 | 
+                 1000      966 | 
+KEY WEST (EYW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+KILLEEN (ILE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+KINGSTON (KIN)      JAMAICA | 
+ KZ,NH                 M      10000 | 
+                 N      3290 | 
+KIRKSVILLE (IRK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+KNOXVILLE (TYS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2390 | 
+KONA (KOA)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      1970 | 
+                 45      1466 | 
+                 100      1336 | 
+                 300      1219 | 
+                 500      1042 | 
+                 1000      982 | 
+LA CROSSE (LSE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+LA PAZ (LPB)      BOLIVIA | 
+ KZ,NH                 M      10000 | 
+                 N      3860 | 
+LAFAYETTE (LAF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+LAFAYETTE (LFT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+LAKE CHARLES (LCH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+LANSING (LAN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+LAREDO (LRD)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2374 | 
+                 45      1770 | 
+                 100      1630 | 
+                 300      1493 | 
+                 500      1296 | 
+                 1000      1226 | 
+LAS VEGAS (LAS)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2320 | 
+                 45      1726 | 
+                 100      1586 | 
+                 300      1449 | 
+                 500      1252 | 
+                 1000      1182 | 
+LAWTON (LAW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+LEXINGTON (LEX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2370 | 
+LIMA (LIM)      PERU | 
+ KZ,NH                 M      10000 | 
+                 N      3640 | 
+LINCOLN (LNK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+LITTLE ROCK (LIT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+LONDON (YXU)      CANADA | 
+ KZ,NH                 M      10000 | 
+                 N      2205 | 
+LONG BEACH (LGB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2114 | 
+LONGVIEW (GGG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+LOS ANGELES (LAX)      U.S.A. | 
+ CK,JL,KE,KZ,MU,NH,OZ,UA                 M      10000 | 
+                 N      1590 | 
+                 45      1200 | 
+                 100      1080 | 
+                 300      1030 | 
+                 500      950 | 
+                 1000      880 | 
+LOUISVILLE (SDF)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2370 | 
+                 45      1766 | 
+                 100      1616 | 
+                 300      1489 | 
+                 500      1282 | 
+                 1000      1212 | 
+LUBBOCK (LBB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+LYNCHBURG (LYH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2414 | 
+MACON (MCN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2390 | 
+MADISON (MSN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+MANAUS (MAO)      BRAZIL | 
+ KZ,NH                 M      10000 | 
+                 N      3710 | 
+MANCHESTER (MHT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2390 | 
+MARACAIBO (MAR)      VENEZUELA | 
+ KZ,NH                 M      10000 | 
+                 N      3290 | 
+MARATHON (MTH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+MARION (MWA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+MARQUETTE (MQT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+MCALLEN (MFE)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2374 | 
+                 45      1770 | 
+                 100      1630 | 
+                 300      1493 | 
+                 500      1296 | 
+                 1000      1226 | 
+MEDFORD (MFR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2114 | 
+MELBOURNE (MLB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+MEMPHIS (MEM)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+MEXICO CITY (MEX)      MEXICO | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2850 | 
+MIAMI (MIA)      U.S.A. | 
+ JL,KZ,NH,OZ,UA                 M      10000 | 
+                 N      2450 | 
+                 45      1816 | 
+                 100      1666 | 
+                 300      1539 | 
+                 500      1322 | 
+                 1000      1252 | 
+MIDLAND (MAF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+MILES CITY (MLS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2114 | 
+MILWAUKEE (MKE)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2350 | 
+                 45      1746 | 
+                 100      1606 | 
+                 300      1469 | 
+                 500      1272 | 
+                 1000      1202 | 
+MINNEAPOLIS (MSP)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2320 | 
+                 45      1716 | 
+                 100      1576 | 
+                 300      1449 | 
+                 500      1252 | 
+                 1000      1182 | 
+MOBILE (MOB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+MOLINE (MLI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+MONROE (MLU)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+MONTEREY (MRY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2114 | 
+MONTERREY (MTY)      MEXICO | 
+ JL                 M      10000 | 
+                 N      2500 | 
+MONTEVIDEO (MVD)      URUGUAY | 
+ KZ,NH                 M      10000 | 
+                 N      3730 | 
+MONTGOMERY (MGM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+MONTREAL (YMQ)      CANADA | 
+ CA,JL,KZ,NH                 M      10000 | 
+                 N      2390 | 
+                 45      1766 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+MUSKEGON (MKG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+MYRTLE BEACH (MYR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+NAPLES (APF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+NASHVILLE (BNA)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+NASSAU (NAS)      BAHAMAS | 
+ KZ,NH                 M      10000 | 
+                 N      3290 | 
+NEW BERN (EWN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+NEW ORLEANS (MSY)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2420 | 
+                 45      1796 | 
+                 100      1656 | 
+                 300      1519 | 
+                 500      1312 | 
+                 1000      1232 | 
+NEW YORK (NYC)      U.S.A. | 
+ JL,KE,KZ,LO,NH,OZ,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+NEWBURGH (SWF)      U.S.A. | 
+ NH                 M      10000 | 
+                 N      2414 | 
+NEWPORT NEWS (PHF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2414 | 
+NORFOLK (ORF)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+OAKLAND (OAK)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2114 | 
+                 45      1570 | 
+                 100      1450 | 
+                 300      1323 | 
+                 500      1136 | 
+                 1000      1076 | 
+OKLAHOMA CITY (OKC)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2350 | 
+                 45      1746 | 
+                 100      1606 | 
+                 300      1469 | 
+                 500      1272 | 
+                 1000      1202 | 
+OMAHA (OMA)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2350 | 
+                 45      1746 | 
+                 100      1606 | 
+                 300      1469 | 
+                 500      1272 | 
+                 1000      1202 | 
+ONTARIO (ONT)      U.S.A. | 
+ NH,UA                 M      10000 | 
+                 N      2090 | 
+                 45      1546 | 
+                 100      1426 | 
+                 300      1299 | 
+                 500      1112 | 
+                 1000      1052 | 
+ORLANDO (ORL)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2440 | 
+                 45      1816 | 
+                 100      1666 | 
+                 300      1529 | 
+                 500      1322 | 
+                 1000      1242 | 
+OTTAWA (YOW)      CANADA | 
+ KZ,NH                 M      10000 | 
+                 N      2390 | 
+OWENSBORO (OWB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+OXNARD (OXR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2114 | 
+PADUCAH (PAH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+PALM SPRINGS (PSP)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2114 | 
+                 45      1570 | 
+                 100      1450 | 
+                 300      1323 | 
+                 500      1136 | 
+                 1000      1076 | 
+PANAMA CITY (ECP)      U.S.A. | 
+ KZ                 M      10000 | 
+                 N      2474 | 
+PANAMA CITY (PTY)      PANAMA | 
+ KZ,NH                 M      10000 | 
+                 N      3370 | 
+PENSACOLA (PNS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+PEORIA (PIA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+PHILADELPHIA (PHL)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+PHOENIX (PHX)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2320 | 
+                 45      1726 | 
+                 100      1586 | 
+                 300      1449 | 
+                 500      1252 | 
+                 1000      1182 | 
+PITTSBURGH (PIT)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+POINTE A PITRE (PTP)      GUADELOUPE | 
+ KZ,NH                 M      10000 | 
+                 N      2568 | 
+PORT OF SPAIN (POS)      TRINIDAD TOBAGO | 
+ KZ,NH                 M      10000 | 
+                 N      2517 | 
+PORTLAND (PDX)      U.S.A. | 
+ JL,KZ,NH,OZ,UA                 M      10000 | 
+                 N      2090 | 
+                 45      1546 | 
+                 100      1426 | 
+                 300      1299 | 
+                 500      1112 | 
+                 1000      1052 | 
+PORTLAND (PWM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2414 | 
+PORTO ALEGRE (POA)      BRAZIL | 
+ KZ,NH                 M      10000 | 
+                 N      4020 | 
+PRESQUE ISLE (PQI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2414 | 
+PROVIDENCE (PVD)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+QUINCY (UIN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+QUITO (UIO)      ECUADOR | 
+ KZ,NH                 M      10000 | 
+                 N      3500 | 
+RALEIGH DURHAM (RDU)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+RENO (RNO)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2320 | 
+                 45      1726 | 
+                 100      1586 | 
+                 300      1449 | 
+                 500      1252 | 
+                 1000      1182 | 
+RICHMOND (RIC)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+RIO DE JANEIRO (RIO)      BRAZIL | 
+ KZ,NH                 M      10000 | 
+                 N      3920 | 
+ROANOKE RAIDS (RZZ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+ROCHESTER (ROC)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+ROCHESTER (RST)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+SACRAMENTO (SAC)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2090 | 
+                 45      1556 | 
+                 100      1436 | 
+                 300      1309 | 
+                 500      1122 | 
+                 1000      1052 | 
+SAGINAW (MBS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+SALT LAKE CITY (SLC)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2350 | 
+                 45      1746 | 
+                 100      1606 | 
+                 300      1469 | 
+                 500      1272 | 
+                 1000      1202 | 
+SAN ANGELO (SJT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+SAN ANTONIO (SAT)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2350 | 
+                 45      1746 | 
+                 100      1606 | 
+                 300      1469 | 
+                 500      1272 | 
+                 1000      1202 | 
+SAN DIEGO (SAN)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2200 | 
+                 45      1626 | 
+                 100      1496 | 
+                 300      1369 | 
+                 500      1182 | 
+                 1000      1112 | 
+SAN FRANCISCO (SFO)      U.S.A. | 
+ JL,KZ,NH,OZ,UA                 M      10000 | 
+                 N      2090 | 
+                 45      1546 | 
+                 100      1426 | 
+                 300      1299 | 
+                 500      1112 | 
+                 1000      1052 | 
+SAN JOSE (SJC)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2090 | 
+                 45      1546 | 
+                 100      1426 | 
+                 300      1299 | 
+                 500      1112 | 
+                 1000      1052 | 
+SAN JOSE (SJO)      COSTA RICA | 
+ KZ,NH                 M      10000 | 
+                 N      3280 | 
+SAN JUAN (SJU)      PUERTO RICO | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2474 | 
+                 45      1840 | 
+                 100      1690 | 
+                 300      1563 | 
+                 500      1346 | 
+                 1000      1276 | 
+SAN LUIS OBISPO (SBP)      U.S.A. | 
+ KZ                 M      10000 | 
+                 N      2114 | 
+SAN PEDRO SULA (SAP)      HONDURAS | 
+ KZ,NH                 M      10000 | 
+                 N      3300 | 
+SAN SALVADOR (SAL)      EL SALVADOR | 
+ KZ,NH                 M      10000 | 
+                 N      3260 | 
+SANTA ANA (SNA)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2114 | 
+                 45      1570 | 
+                 100      1450 | 
+                 300      1323 | 
+                 500      1136 | 
+                 1000      1076 | 
+SANTA BARBARA (SBA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2114 | 
+SANTA MARIA (SMX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2114 | 
+SANTIAGO (SCL)      CHILE | 
+ KZ,NH                 M      10000 | 
+                 N      3730 | 
+SANTO DOMINGO (SDQ)      DOMINICAN REP. | 
+ KZ,NH                 M      10000 | 
+                 N      3290 | 
+SAO PAULO (SAO)      BRAZIL | 
+ KZ,NH                 M      10000 | 
+                 N      3920 | 
+SARASOTA (SRQ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+SAVANNAH (SAV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+SEATTLE (SEA)      U.S.A. | 
+ JL,KE,KZ,NH,OZ,UA                 M      10000 | 
+                 N      2090 | 
+                 45      1546 | 
+                 100      1426 | 
+                 300      1299 | 
+                 500      1112 | 
+                 1000      1052 | 
+SHREVEPORT (SHV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+SIOUX CITY (SUX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+SIOUX FALLS (FSD)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2374 | 
+                 45      1770 | 
+                 100      1630 | 
+                 300      1493 | 
+                 500      1296 | 
+                 1000      1226 | 
+SOUTH BEND (SBN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2350 | 
+SPOKANE (GEG)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2090 | 
+                 45      1556 | 
+                 100      1436 | 
+                 300      1309 | 
+                 500      1122 | 
+                 1000      1052 | 
+SPRINGFIELD (SFY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2414 | 
+SPRINGFIELD (SGF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+SPRINGFIELD (SPI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+ST LOUIS (STL)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2350 | 
+                 45      1746 | 
+                 100      1606 | 
+                 300      1469 | 
+                 500      1272 | 
+                 1000      1202 | 
+ST MAARTEN (SXM)      NETHERLANDS ANTILLES | 
+ KZ                 M      10000 | 
+                 N      2537 | 
+ST THOMAS ISLAND (STT)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2515 | 
+                 45      1881 | 
+                 100      1731 | 
+                 300      1604 | 
+                 500      1387 | 
+                 1000      1317 | 
+STEAMBOAT SPRINGS (SBS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+SYRACUSE (SYR)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+TALLAHASSEE (TLH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+TAMPA (TPA)      U.S.A. | 
+ JL,KZ,NH,UA                 M      10000 | 
+                 N      2440 | 
+                 45      1816 | 
+                 100      1666 | 
+                 300      1529 | 
+                 500      1322 | 
+                 1000      1242 | 
+TEGUCIGALPA (TGU)      HONDURAS | 
+ KZ,NH                 M      10000 | 
+                 N      3260 | 
+TEXARKANA (TXK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+TIJUANA (TIJ)      MEXICO | 
+ KZ,NH                 M      10000 | 
+                 N      2690 | 
+TOBAGO (TAB)      TRINIDAD TOBAGO | 
+ KZ,NH                 M      10000 | 
+                 N      3290 | 
+TOLEDO (TOL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2370 | 
+TORONTO (YTO)      CANADA | 
+ JL,KZ,LO,NH                 M      10000 | 
+                 N      2390 | 
+                 45      1766 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+TRAVERSE CITY (TVC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+TRI-CITY (TRI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+TUCSON (TUS)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2320 | 
+                 45      1726 | 
+                 100      1586 | 
+                 300      1449 | 
+                 500      1252 | 
+                 1000      1182 | 
+TULSA (TUL)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2350 | 
+                 45      1746 | 
+                 100      1606 | 
+                 300      1469 | 
+                 500      1272 | 
+                 1000      1202 | 
+TUPELO (TUP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+TUSCALOOSA (TCL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+TYLER (TYR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+VAIL/EAGLE (EGE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+VANCOUVER (YVR)      CANADA | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2080 | 
+VISALIA (VIS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2114 | 
+WACO (ACT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+WASHINGTON DC (WAS)      U.S.A. | 
+ JL,KE,KZ,NH,UA                 M      10000 | 
+                 N      2390 | 
+                 45      1776 | 
+                 100      1636 | 
+                 300      1499 | 
+                 500      1292 | 
+                 1000      1222 | 
+WATERLOO (ALO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+WAUSAU (AUW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2374 | 
+WEST PALM BEACH (PBI)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2474 | 
+                 45      1840 | 
+                 100      1690 | 
+                 300      1563 | 
+                 500      1346 | 
+                 1000      1276 | 
+WESTCHESTER COUNTY (HPN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2414 | 
+WICHITA (ICT)      U.S.A. | 
+ KZ,NH,UA                 M      10000 | 
+                 N      2350 | 
+                 45      1746 | 
+                 100      1606 | 
+                 300      1469 | 
+                 500      1272 | 
+                 1000      1202 | 
+WICHITA FALLS (SPS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2350 | 
+WILMINGTON (ILM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2474 | 
+WINDSOR (YQG)      CANADA | 
+ KZ,NH                 M      10000 | 
+                 N      2177 | 
+WINNIPEG (YWG)      CANADA | 
+ KZ,NH                 M      10000 | 
+                 N      2370 | 
+WORCESTER (ORH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2390 | 
+SAN FRANCISCO (SFO)      U.S.A. | 
+ NH                 M      10000 | 
+                 N      1860 | 
+ABILENE (ABI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+AKRON CANTON  (CAK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+ALBANY  (ALB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+ALBUQUERQUE  (ABQ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2145 | 
+ALEXANDRIA (AEX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+ALLENTOWN (ABE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+AMARILLO (AMA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+ANCHORAGE (ANC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1745 | 
+ANTIGUA (ANU)      ANTIGUA BARBUDA | 
+ KZ,NH                 M      10000 | 
+                 N      3035 | 
+APPLETON (ATW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+ARUBA (AUA)      ARUBA | 
+ KZ,NH                 M      10000 | 
+                 N      2332 | 
+ASHEVILLE (AVL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+ASPEN (ASE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+ATLANTA  (ATL)      U.S.A. | 
+ CA,CX,JL,KE,KZ,NH                 M      10000 | 
+                 N      2185 | 
+                 45      1620 | 
+                 100      1490 | 
+                 300      1387 | 
+                 500      1244 | 
+                 1000      1164 | 
+AUGUSTA (AGS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+AUSTIN  (AUS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2145 | 
+BAKERSFEILD (BFL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+BALTIMORE (BWI)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2185 | 
+BANGOR (BGR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+BARBADOS (BGI)      BARBADOS | 
+ KZ,NH                 M      10000 | 
+                 N      3035 | 
+BATON ROUGE (BTR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+BATTLE CREEK (BTL)      U.S.A. | 
+ NH                 M      10000 | 
+                 N      2169 | 
+BEAUMONT (BPT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+BELEM (BEL)      BRAZIL | 
+ KZ,NH                 M      10000 | 
+                 N      3465 | 
+BELIZE CITY (BZE)      BELIZE | 
+ KZ,NH                 M      10000 | 
+                 N      3045 | 
+BERMUDA (BDA)      BERMUDA | 
+ KZ,NH                 M      10000 | 
+                 N      2332 | 
+BILLINGS (BIL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+BINGHAMTON (BGM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+BIRMINGHAM (BHM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+BLOOMINGTON (BMI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+BOGOTA (BOG)      COLOMBIA | 
+ KZ,NH                 M      10000 | 
+                 N      3215 | 
+BOISE (BOI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+BOSTON (BOS)      U.S.A. | 
+ CA,CX,JL,KE,KZ,NH                 M      10000 | 
+                 N      2185 | 
+                 45      1620 | 
+                 100      1490 | 
+                 300      1387 | 
+                 500      1244 | 
+                 1000      1164 | 
+                 200      1140 | 
+BROWNSVILLE (BRO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+BUENOS AIRES (BUE)      ARGENTINA | 
+ KZ,NH                 M      10000 | 
+                 N      3485 | 
+BUFFALO (BUF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+BURBANK (BUR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+BURLINGTON (BRL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+BURLINGTON (BTV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+CALGARY (YYC)      CANADA | 
+ CA,KZ,NH                 M      10000 | 
+                 N      2145 | 
+                 45      1600 | 
+                 100      1470 | 
+                 300      1357 | 
+                 500      1214 | 
+                 1000      1144 | 
+CAPE GIRARDEAU (CGI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+CARACAS (CCS)      VENEZUELA | 
+ KZ,NH                 M      10000 | 
+                 N      3035 | 
+CEDAR RAPIDS (CID)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2145 | 
+CHAMPAIGN (CMI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+CHARLESTON (CHS)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2269 | 
+CHARLESTON (CRW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+CHARLOTTE (CLT)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2185 | 
+CHARLOTTESVILLE (CHO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+CHATTANOOGA (CHA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+CHICAGO (CHI)      U.S.A. | 
+ CA,CK,CX,JL,KE,KZ,LO,MU,NH                 M      10000 | 
+                 N      2145 | 
+                 45      1600 | 
+                 100      1470 | 
+                 300      1357 | 
+                 500      1214 | 
+                 1000      1144 | 
+CINCINNATI (CVG)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2165 | 
+CLEVELAND (CLE)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2165 | 
+COLLEGE STATION (CLL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+COLORADO SPRINGS (COS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+COLUMBIA (CAE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+COLUMBIA (COU)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+COLUMBUS (CMH)      U.S.A. | 
+ CX,JL,KZ,NH                 M      15000 | 
+                 N      2630 | 
+                 45      2100 | 
+COLUMBUS (CSG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+COLUMBUS (UBS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+CORPUS CHRISTI (CRP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+CRESTED BUTTE (CSE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+CURACAO (CUR)      NETHERLANDS ANTILLES | 
+ KZ,NH                 M      10000 | 
+                 N      2332 | 
+DALLAS/FORT WORTH (DFW)      U.S.A. | 
+ CA,CX,JL,KE,KZ,NH                 M      10000 | 
+                 N      2145 | 
+                 45      1600 | 
+                 100      1470 | 
+                 300      1357 | 
+                 500      1214 | 
+                 1000      1144 | 
+DAYTON (DAY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2165 | 
+DAYTONA BEACH (DAB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+DECATUR (DEC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+DENVER (DEN)      U.S.A. | 
+ CA,JL,KZ,NH                 M      10000 | 
+                 N      2145 | 
+                 45      1600 | 
+                 100      1470 | 
+                 300      1357 | 
+                 500      1214 | 
+                 1000      1144 | 
+DES MOINES (DSM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2145 | 
+DETROIT (DTT)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2165 | 
+DOMINICA (DOM)      DOMINICA | 
+ KZ,NH                 M      10000 | 
+                 N      3035 | 
+DUBUQUE (DBQ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+DULUTH (DLH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+DURANGO (DRO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+EDMONTON (YEA)      CANADA | 
+ KZ,NH                 M      10000 | 
+                 N      2145 | 
+EL PASO (ELP)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2145 | 
+EUGENE (EUG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+EVANSVILLE (EVV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+FAIRBANKS (FAI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1745 | 
+FARGO (FAR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+FAYETTEVILLE (FAY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+FAYETTEVILLE (FYV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+FLINT (FNT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+FORT DE FRANCE (FDF)      MARTINIQUE | 
+ KZ,NH                 M      10000 | 
+                 N      3035 | 
+FORT LAUDERDALE (FLL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2245 | 
+FORT LEONARD WOOD (TBN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+FORT MYERS (FMY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+FORT SMITH (FSM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+FORT WAYNE (FWA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2145 | 
+FRESNO (FAT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+GAINESVILLE (GNV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+GRAND RAPIDS (GRR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2165 | 
+GREEN BAY (GRB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+GREENSBORO (GSO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+GREENVILLE (GSP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+GRENADA (GND)      GRENADA | 
+ KZ,NH                 M      10000 | 
+                 N      3035 | 
+GUADALAJARA (GDL)      MEXICO | 
+ CX,JL,KE                 M      15000 | 
+                 N      2630 | 
+                 45      2100 | 
+                 100      1630 | 
+                 300      1310 | 
+                 500      1190 | 
+GUATEMALA CITY (GUA)      GUATEMALA | 
+ KZ,NH                 M      10000 | 
+                 N      2985 | 
+GUAYAQUIL (GYE)      ECUADOR | 
+ KZ,NH                 M      10000 | 
+                 N      3265 | 
+GULFPORT (GPT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+GUNNISON (GUC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+HALIFAX (YHZ)      CANADA | 
+ KZ,NH                 M      10000 | 
+                 N      2305 | 
+HARLINGEN (HRL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+HARRISBURG (HAR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+HARTFORD (HFD)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+HAVANA (HAV)      CUBA | 
+ KZ,NH                 M      10000 | 
+                 N      3035 | 
+HILO (ITO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1719 | 
+HONOLULU (HNL)      U.S.A. | 
+ AF,CA,JL,KE,KL,KZ,NH                 M      10000 | 
+                 N      1410 | 
+                 45      1050 | 
+                 100      960 | 
+                 300      910 | 
+                 500      830 | 
+                 1000      780 | 
+HOOLEHUA (MKK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1719 | 
+HOUSTON (HOU)      U.S.A. | 
+ CA,CX,JL,KZ,NH                 M      10000 | 
+                 N      2145 | 
+                 45      1600 | 
+                 100      1470 | 
+                 300      1357 | 
+                 500      1214 | 
+                 1000      1144 | 
+HUNTSVILLE (HSV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+IDAHO FALLS (IDA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+INDIANAPOLIS (IND)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2165 | 
+INYOKERN (IYK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+ISLIP (ISP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+JACKSON (JAC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+JACKSON (JAN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+JACKSON (MKL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+JACKSONVILLE (JAX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2215 | 
+JACKSONVILLE (OAJ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+JOPLIN (JLN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+KAHULUI (OGG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1719 | 
+KALAMAZOO (AZO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+KANSAS CITY (MKC)      U.S.A. | 
+ CA,JL,KZ,NH                 M      10000 | 
+                 N      2145 | 
+                 45      1600 | 
+                 100      1470 | 
+                 300      1357 | 
+                 500      1214 | 
+                 1000      1144 | 
+KAUAI ISLAND (LIH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1719 | 
+KEY WEST (EYW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+KILLEEN (ILE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+KINGSTON (KIN)      JAMAICA | 
+ KZ,NH                 M      10000 | 
+                 N      3035 | 
+KIRKSVILLE (IRK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+KNOXVILLE (TYS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+KONA (KOA)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      1765 | 
+                 45      1310 | 
+                 100      1200 | 
+                 300      1107 | 
+                 500      984 | 
+                 1000      934 | 
+LA CROSSE (LSE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+LA PAZ (LPB)      BOLIVIA | 
+ KZ,NH                 M      10000 | 
+                 N      3615 | 
+LAFAYETTE (LAF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+LAFAYETTE (LFT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+LAKE CHARLES (LCH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+LANSING (LAN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+LAREDO (LRD)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2169 | 
+LAS VEGAS (LAS)      U.S.A. | 
+ JL,KE,KZ,NH                 M      10000 | 
+                 N      2115 | 
+                 45      1570 | 
+                 100      1450 | 
+                 300      1337 | 
+                 500      1194 | 
+                 1000      1124 | 
+LAWTON (LAW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+LEXINGTON (LEX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2165 | 
+LIMA (LIM)      PERU | 
+ KE,KZ,NH                 M      10000 | 
+                 N      3010 | 
+                 45      2270 | 
+                 100      2110 | 
+                 300      1650 | 
+                 500      1460 | 
+LINCOLN (LNK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+LITTLE ROCK (LIT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+LONDON (YXU)      CANADA | 
+ KZ,NH                 M      10000 | 
+                 N      2000 | 
+LONG BEACH (LGB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+LONGVIEW (GGG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+LOS ANGELES (LAX)      U.S.A. | 
+ CA,CK,CX,JL,KE,KZ,MU,NH                 M      10000 | 
+                 N      1875 | 
+                 45      1400 | 
+                 100      1280 | 
+                 300      1187 | 
+                 500      1064 | 
+                 1000      994 | 
+LOUISVILLE (SDF)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2165 | 
+LUBBOCK (LBB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+LYNCHBURG (LYH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+MACON (MCN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+MADISON (MSN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+MANAUS (MAO)      BRAZIL | 
+ KZ,NH                 M      10000 | 
+                 N      3465 | 
+MANCHESTER (MHT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+MARACAIBO (MAR)      VENEZUELA | 
+ KZ,NH                 M      10000 | 
+                 N      3035 | 
+MARATHON (MTH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+MARION (MWA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+MARQUETTE (MQT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+MCALLEN (MFE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+MEDFORD (MFR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+MELBOURNE (MLB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+MEMPHIS (MEM)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2185 | 
+MEXICO CITY (MEX)      MEXICO | 
+ CX,JL,KZ,NH                 M      15000 | 
+                 N      2630 | 
+                 45      2100 | 
+MIAMI (MIA)      U.S.A. | 
+ CA,CX,JL,KE,KZ,NH                 M      10000 | 
+                 N      2245 | 
+                 45      1670 | 
+                 100      1530 | 
+                 300      1417 | 
+                 500      1274 | 
+                 1000      1194 | 
+                 200      1190 | 
+MIDLAND (MAF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+MILES CITY (MLS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+MILWAUKEE (MKE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2145 | 
+MINNEAPOLIS (MSP)      U.S.A. | 
+ CA,JL,KZ,NH                 M      10000 | 
+                 N      2115 | 
+                 45      1570 | 
+                 100      1440 | 
+                 300      1337 | 
+                 500      1194 | 
+                 1000      1124 | 
+MOBILE (MOB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+MOLINE (MLI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+MONROE (MLU)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+MONTEREY (MRY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+MONTERREY (MTY)      MEXICO | 
+ JL                 M      10000 | 
+                 N      2605 | 
+MONTEVIDEO (MVD)      URUGUAY | 
+ KZ,NH                 M      10000 | 
+                 N      3485 | 
+MONTGOMERY (MGM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+MONTREAL (YMQ)      CANADA | 
+ CA,JL,KE,KZ,NH                 M      10000 | 
+                 N      2185 | 
+                 45      1620 | 
+                 100      1490 | 
+                 300      1387 | 
+                 500      1244 | 
+                 1000      1164 | 
+MUSKEGON (MKG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+MYRTLE BEACH (MYR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+NAPLES (APF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+NASHVILLE (BNA)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2185 | 
+NASSAU (NAS)      BAHAMAS | 
+ KZ,NH                 M      10000 | 
+                 N      3035 | 
+NEW BERN (EWN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+NEW ORLEANS (MSY)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2215 | 
+NEW YORK (NYC)      U.S.A. | 
+ CA,CX,JL,KE,KZ,LO,NH                 M      10000 | 
+                 N      1900 | 
+                 45      1420 | 
+                 100      1290 | 
+                 300      1230 | 
+                 500      1130 | 
+                 1000      1050 | 
+NEWBURGH (SWF)      U.S.A. | 
+ NH                 M      10000 | 
+                 N      2209 | 
+NEWPORT NEWS (PHF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+NORFOLK (ORF)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2185 | 
+OAKLAND (OAK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+OKLAHOMA CITY (OKC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2145 | 
+OMAHA (OMA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2145 | 
+ONTARIO (ONT)      U.S.A. | 
+ NH                 M      10000 | 
+                 N      1899 | 
+ORLANDO (ORL)      U.S.A. | 
+ CA,JL,KZ,NH                 M      10000 | 
+                 N      2235 | 
+                 45      1660 | 
+                 100      1530 | 
+                 300      1417 | 
+                 500      1274 | 
+                 1000      1194 | 
+OTTAWA (YOW)      CANADA | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+OWENSBORO (OWB)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+OXNARD (OXR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+PADUCAH (PAH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+PALM SPRINGS (PSP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+PANAMA CITY (ECP)      U.S.A. | 
+ KZ                 M      10000 | 
+                 N      2269 | 
+PANAMA CITY (PTY)      PANAMA | 
+ KZ,NH                 M      10000 | 
+                 N      3125 | 
+PENSACOLA (PNS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+PEORIA (PIA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+PHILADELPHIA (PHL)      U.S.A. | 
+ CA,JL,KZ,NH                 M      10000 | 
+                 N      2185 | 
+                 45      1620 | 
+                 100      1490 | 
+                 300      1387 | 
+                 500      1244 | 
+                 1000      1164 | 
+PHOENIX (PHX)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2115 | 
+PITTSBURGH (PIT)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2185 | 
+POINTE A PITRE (PTP)      GUADELOUPE | 
+ KZ,NH                 M      10000 | 
+                 N      2363 | 
+PORT OF SPAIN (POS)      TRINIDAD TOBAGO | 
+ KZ,NH                 M      10000 | 
+                 N      2312 | 
+PORTLAND (PDX)      U.S.A. | 
+ CX,JL,KE,KZ,NH                 M      15000 | 
+                 N      2630 | 
+                 45      2100 | 
+                 100      1280 | 
+PORTLAND (PWM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+PORTO ALEGRE (POA)      BRAZIL | 
+ KZ,NH                 M      10000 | 
+                 N      3775 | 
+PRESQUE ISLE (PQI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+PROVIDENCE (PVD)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+QUINCY (UIN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+QUITO (UIO)      ECUADOR | 
+ KZ,NH                 M      10000 | 
+                 N      3255 | 
+RALEIGH DURHAM (RDU)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2185 | 
+RENO (RNO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2115 | 
+RICHMOND (RIC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+RIO DE JANEIRO (RIO)      BRAZIL | 
+ KZ,NH                 M      10000 | 
+                 N      3675 | 
+ROANOKE RAIDS (RZZ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+ROCHESTER (ROC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+ROCHESTER (RST)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+SACRAMENTO (SAC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1885 | 
+SAGINAW (MBS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+SALT LAKE CITY (SLC)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2145 | 
+SAN ANGELO (SJT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+SAN ANTONIO (SAT)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2145 | 
+SAN DIEGO (SAN)      U.S.A. | 
+ CA,JL,KZ,NH                 M      10000 | 
+                 N      1995 | 
+                 45      1480 | 
+                 100      1360 | 
+                 300      1257 | 
+                 500      1124 | 
+                 1000      1054 | 
+SAN FRANCISCO (SFO)      U.S.A. | 
+ CA,CX,JL,KE,KZ,NH                 M      10000 | 
+                 N      1875 | 
+                 45      1400 | 
+                 100      1280 | 
+                 300      1187 | 
+                 500      1064 | 
+                 1000      994 | 
+SAN JOSE (SJC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1875 | 
+SAN JOSE (SJO)      COSTA RICA | 
+ KZ,NH                 M      10000 | 
+                 N      3035 | 
+SAN JUAN (SJU)      PUERTO RICO | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+SAN LUIS OBISPO (SBP)      U.S.A. | 
+ KZ                 M      10000 | 
+                 N      1899 | 
+SAN PEDRO SULA (SAP)      HONDURAS | 
+ KZ,NH                 M      10000 | 
+                 N      3055 | 
+SAN SALVADOR (SAL)      EL SALVADOR | 
+ KZ,NH                 M      10000 | 
+                 N      3015 | 
+SANTA ANA (SNA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+SANTA BARBARA (SBA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+SANTA MARIA (SMX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+SANTIAGO (SCL)      CHILE | 
+ KZ,NH                 M      10000 | 
+                 N      3485 | 
+SANTO DOMINGO (SDQ)      DOMINICAN REP. | 
+ KZ,NH                 M      10000 | 
+                 N      3035 | 
+SAO PAULO (SAO)      BRAZIL | 
+ CA,KE,KZ,NH                 M      10000 | 
+                 N      3675 | 
+                 45      2720 | 
+                 100      2570 | 
+                 300      2047 | 
+                 500      1794 | 
+SARASOTA (SRQ)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+SAVANNAH (SAV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+SEATTLE (SEA)      U.S.A. | 
+ CX,JL,KE,KZ,NH                 M      15000 | 
+                 N      2630 | 
+                 45      2100 | 
+                 100      1280 | 
+                 300      1187 | 
+                 500      1064 | 
+                 1000      994 | 
+SHREVEPORT (SHV)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+SIOUX CITY (SUX)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+SIOUX FALLS (FSD)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+SOUTH BEND (SBN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2145 | 
+SPOKANE (GEG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1885 | 
+SPRINGFIELD (SFY)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+SPRINGFIELD (SGF)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+SPRINGFIELD (SPI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+ST LOUIS (STL)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2145 | 
+ST MAARTEN (SXM)      NETHERLANDS ANTILLES | 
+ KZ                 M      10000 | 
+                 N      2332 | 
+ST THOMAS ISLAND (STT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2310 | 
+STEAMBOAT SPRINGS (SBS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+SYRACUSE (SYR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+TALLAHASSEE (TLH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+TAMPA (TPA)      U.S.A. | 
+ JL,KZ,NH                 M      10000 | 
+                 N      2235 | 
+TEGUCIGALPA (TGU)      HONDURAS | 
+ KZ,NH                 M      10000 | 
+                 N      3015 | 
+TEXARKANA (TXK)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+TIJUANA (TIJ)      MEXICO | 
+ KZ,NH                 M      10000 | 
+                 N      2445 | 
+TOBAGO (TAB)      TRINIDAD TOBAGO | 
+ KZ,NH                 M      10000 | 
+                 N      3035 | 
+TOLEDO (TOL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2165 | 
+TORONTO (YTO)      CANADA | 
+ CA,CX,JL,KE,KZ,LO,NH                 M      10000 | 
+                 N      2185 | 
+                 45      1620 | 
+                 100      1490 | 
+                 300      1387 | 
+                 500      1244 | 
+                 1000      1164 | 
+TRAVERSE CITY (TVC)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+TRI-CITY (TRI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+TUCSON (TUS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2115 | 
+TULSA (TUL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2145 | 
+TUPELO (TUP)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+TUSCALOOSA (TCL)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+TYLER (TYR)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+VAIL/EAGLE (EGE)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+VANCOUVER (YVR)      CANADA | 
+ CA,CX,JL,KE,KZ,NH                 M      10000 | 
+                 N      1875 | 
+                 45      1400 | 
+                 100      1280 | 
+                 300      1187 | 
+                 500      1064 | 
+                 1000      994 | 
+VISALIA (VIS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1899 | 
+WACO (ACT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+WASHINGTON DC (WAS)      U.S.A. | 
+ CX,JL,KE,KZ,NH                 M      15000 | 
+                 N      2630 | 
+                 45      2100 | 
+                 100      1490 | 
+                 300      1387 | 
+                 500      1244 | 
+                 1000      1164 | 
+WATERLOO (ALO)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+WAUSAU (AUW)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2169 | 
+WEST PALM BEACH (PBI)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+WESTCHESTER COUNTY (HPN)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2209 | 
+WICHITA (ICT)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2145 | 
+WICHITA FALLS (SPS)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2145 | 
+WILMINGTON (ILM)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2269 | 
+WINDSOR (YQG)      CANADA | 
+ KZ,NH                 M      10000 | 
+                 N      1972 | 
+WINNIPEG (YWG)      CANADA | 
+ KZ,NH                 M      10000 | 
+                 N      2165 | 
+WORCESTER (ORH)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      2185 | 
+ATLANTA  (ATL)      U.S.A. | 
+ OZ                 M      10000 | 
+                 N      2050 | 
+                 45      1533 | 
+                 100      1403 | 
+                 300      1328 | 
+                 500      1205 | 
+                 1000      1125 | 
+CHICAGO (CHI)      U.S.A. | 
+ CA,OZ                 M      10000 | 
+                 N      2010 | 
+                 45      1513 | 
+                 100      1383 | 
+                 300      1298 | 
+                 500      1175 | 
+                 1000      1105 | 
+DALLAS/FORT WORTH (DFW)      U.S.A. | 
+ CA,OZ                 M      10000 | 
+                 N      2010 | 
+                 45      1513 | 
+                 100      1383 | 
+                 300      1298 | 
+                 500      1175 | 
+                 1000      1105 | 
+HONOLULU (HNL)      U.S.A. | 
+ AF,CA,JL,KL,KZ,NH,OZ                 M      10000 | 
+                 N      1410 | 
+                 45      1050 | 
+                 100      960 | 
+                 300      910 | 
+                 500      830 | 
+                 1000      780 | 
+KAHULUI (OGG)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1410 | 
+KONA (KOA)      U.S.A. | 
+ KZ,NH                 M      10000 | 
+                 N      1410 | 
+LOS ANGELES (LAX)      U.S.A. | 
+ CA,OZ                 M      10000 | 
+                 N      1740 | 
+                 45      1313 | 
+                 100      1193 | 
+                 300      1128 | 
+                 500      1025 | 
+                 1000      955 | 
+MIAMI (MIA)      U.S.A. | 
+ OZ                 M      10000 | 
+                 N      2110 | 
+                 45      1583 | 
+                 100      1443 | 
+                 300      1358 | 
+                 500      1235 | 
+                 1000      1155 | 
+MONTREAL (YMQ)      CANADA | 
+ CA                 M      10000 | 
+                 N      2050 | 
+                 45      1533 | 
+                 100      1403 | 
+                 300      1328 | 
+                 500      1205 | 
+                 1000      1125 | 
+NEW YORK (NYC)      U.S.A. | 
+ CA,OZ                 M      10000 | 
+                 N      2050 | 
+                 45      1533 | 
+                 100      1403 | 
+                 300      1328 | 
+                 500      1205 | 
+                 1000      1125 | 
+PORTLAND (PDX)      U.S.A. | 
+ CA,OZ                 M      10000 | 
+                 N      1740 | 
+                 45      1313 | 
+                 100      1193 | 
+                 300      1128 | 
+                 500      1025 | 
+                 1000      955 | 
+SAN FRANCISCO (SFO)      U.S.A. | 
+ CA,OZ                 M      10000 | 
+                 N      1740 | 
+                 45      1313 | 
+                 100      1193 | 
+                 300      1128 | 
+                 500      1025 | 
+                 1000      955 | 
+SAO PAULO (SAO)      BRAZIL | 
+ CA                 M      10000 | 
+                 N      3540 | 
+                 45      2633 | 
+                 100      2483 | 
+                 300      1988 | 
+                 500      1755 | 
+SEATTLE (SEA)      U.S.A. | 
+ OZ                 M      10000 | 
+                 N      1740 | 
+                 45      1313 | 
+                 100      1193 | 
+                 300      1128 | 
+                 500      1025 | 
+                 1000      955 | 
+VANCOUVER (YVR)      CANADA | 
+ CA                 M      10000 | 
+                 N      1740 | 
+                 45      1313 | 
+                 100      1193 | 
+                 300      1128 | 
+                 500      1025 | 
+                 1000      955 | 
+CHICAGO (CHI)      U.S.A. | 
+ CK,MU                 M      10000 | 
+                 N      1860 | 
+                 45      1400 | 
+                 100      1270 | 
+                 300      1200 | 
+                 500      1100 | 
+                 1000      1030 | 
+LOS ANGELES (LAX)      U.S.A. | 
+ CK,MU,OZ                 M      10000 | 
+                 N      1590 | 
+                 45      1200 | 
+                 100      1080 | 
+                 300      1030 | 
+                 500      950 | 
+                 1000      880 | 
+VANCOUVER (YVR)      CANADA | 
+
