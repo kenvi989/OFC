@@ -49,16 +49,6 @@ namespace OFCxlsReader
                 }
             }
         }
-        //private void GetTables(DataSet dataSet)
-        //{
-        //    // Get Each DataTable in the DataTableCollection and
-        //    // print each row value.
-        //    foreach (DataTable table in dataSet.Tables)
-        //        foreach (DataRow row in table.Rows)
-        //            foreach (DataColumn column in table.Columns)
-        //                if (row[column] != null)
-        //                    Console.WriteLine(row[column]);
-        //}
 
         private void CreateTable(DataSet dataSet)
         {
@@ -71,33 +61,6 @@ namespace OFCxlsReader
         {
 
         }
-
-        private void cboSheet_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            DataTable dt = tableCollection[cboSheet.SelectedItem.ToString()];
-            dataGridView1.DataSource = dt;
-        }
-
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void txtFilename_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void cmbTemplate_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private bool DoScripts(string jsxFile)
         {
             try
@@ -109,7 +72,7 @@ namespace OFCxlsReader
             catch (Exception ex)
             {
                 //MessageBox.Show("ErrorExecuteJSX　エラー:　" + ex.Message, "通知", MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1, MessageBoxOptions.DefaultDesktopOnly);
-                MessageBox.Show("テンプレート、または紙面体裁テキストファイル名等のご確認をお願い致します。");
+                MessageBox.Show("テンプレート、または紙面体裁テキストファイル名等のご確認をお願い致します。" + ex.Message);
                 return false;
             }
         }

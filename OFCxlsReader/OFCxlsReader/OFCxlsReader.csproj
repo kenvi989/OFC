@@ -89,7 +89,7 @@
   </ItemGroup>
   <ItemGroup>
     <COMReference Include="InDesign">
-      <Guid>{38E74CB3-2251-472E-A9C3-922526043955}</Guid>
+      <Guid>{B39B48C4-70B1-44BD-9081-355D916B3289}</Guid>
       <VersionMajor>1</VersionMajor>
       <VersionMinor>0</VersionMinor>
       <Lcid>0</Lcid>
